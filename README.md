@@ -287,3 +287,6 @@ translog_log_parser/
 ## 👤 Author
 
 - Jiajun Wu
+
+## 📄 License
+GPLv3
