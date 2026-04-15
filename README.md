@@ -17,6 +17,10 @@ This README consolidates and updates content previously split across:
 Translog and external behavior logs are rich but hard to inspect manually.  
 This toolkit turns them into interactive dashboards + exportable data for research workflows.
 
+Demos:  
+https://bdzzzz1.github.io/external_activity_parser_demo/  
+https://bdzzzz1.github.io/translog-ii-log-parser.github.io/
+
 You can use:
 
 - ✅ **Translog parser only**
