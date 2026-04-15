@@ -286,7 +286,12 @@ translog_log_parser/
 
 ## 👤 Author
 
-- Jiajun Wu
+**Jiajun WU**
 
 ## 📄 License
-GPLv3
+
+This project is licensed under the **GNU General Public License v3.0 (GPLv3)**.
+
+You may use, modify, and redistribute under GPLv3 terms.
+
+---
