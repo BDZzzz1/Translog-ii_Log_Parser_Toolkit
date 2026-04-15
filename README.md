@@ -168,7 +168,7 @@ Default webhook:
 
 ---
 
-## 🧪 Up-to-Date External Dashboard Functions
+## 🧪 External Dashboard Functions
 
 Current key external panels and controls include:
 
